@@ -6,7 +6,8 @@
       "is_favorite": false,
       "name": "Cartas de Póker",
       "price": 25,
-      "stock": 100
+      "stock": 100,
+      "published_at": "02-12-2021"
     },
     {
       "discount": 0,
@@ -14,7 +15,8 @@
       "is_favorite": false,
       "name": "Cartas de UNO",
       "price": 25,
-      "stock": 100
+      "stock": 100,
+      "published_at": "01-01-2022"
     },
     {
       "discount": 10,
@@ -22,7 +24,8 @@
       "is_favorite": true,
       "name": "Cartas de Póker edición limitada",
       "price": 50,
-      "stock": 35
+      "stock": 35,
+      "published_at": "10-01-2022"
     }
   ]
 }
