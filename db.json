@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "discount": 0,
+      "id": "product-1",
+      "is_favorite": false,
+      "name": "Cartas de Póker",
+      "price": 25,
+      "stock": 100
+    },
+    {
+      "discount": 0,
+      "id": "product-2",
+      "is_favorite": false,
+      "name": "Cartas de UNO",
+      "price": 25,
+      "stock": 100
+    },
+    {
+      "discount": 10,
+      "id": "product-3",
+      "is_favorite": true,
+      "name": "Cartas de Póker edición limitada",
+      "price": 50,
+      "stock": 35
+    }
+  ]
+}
